@@ -1,0 +1,27 @@
+[
+  {
+    "Alumno": "Cesar Garzon",
+    "Nota": 5,
+    "Ranking": 1
+  },
+  {
+    "Alumno": "Pedro Perez",
+    "Nota": 4.5,
+    "Ranking": 3
+  },
+  {
+    "Alumno": "Juan Jimenez",
+    "Nota": 4.8,
+    "Ranking": 2
+  },
+  {
+    "Alumno": "Gonzalo Gonzalez",
+    "Nota": "3.2",
+    "Ranking": "4"
+  },
+  {
+    "Alumno": "Andres Arias",
+    "Nota": 2,
+    "Ranking": 5
+  }
+]
