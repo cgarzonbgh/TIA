@@ -1,0 +1,47 @@
+[
+  {
+    "Alumno": "Cesar Garzon",
+    "Nota": 4.9,
+    "Ranking": 1
+  },
+  {
+    "Alumno": "Pedro Perez",
+    "Nota": 4.2,
+    "Ranking": 3
+  },
+  {
+    "Alumno": "Juan Jimenez",
+    "Nota": 4.5,
+    "Ranking": 2
+  },
+  {
+    "Alumno": "Gonzalo Gonzalez",
+    "Nota": 3.2,
+    "Ranking": 4
+  },
+  {
+    "Alumno": "Andres Arias",
+    "Nota": 2,
+    "Ranking": 5
+  },
+  {
+    "Alumno": "Carlos Cardenas",
+    "Nota": 1.8,
+    "Ranking": 6
+  },
+  {
+    "Alumno": "David Duarte",
+    "Nota": 1.3,
+    "Ranking": 7
+  },
+  {
+    "Alumno": "Fabio Fernandez",
+    "Nota": 1,
+    "Ranking": 8
+  },
+  {
+    "Alumno": "Ramon Ramirez",
+    "Nota": 0.5,
+    "Ranking": 9
+  }
+]
